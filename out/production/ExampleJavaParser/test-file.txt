@@ -1,0 +1,11 @@
+"customer","CST9104","John Jones","jjones@email.com",25,1
+"product","LM1","Lawn Mower","Toro",259.99,"USD"
+"product","WE1","Weed Eater",99.99,
+"order","ORD0010",2,289.99,21.11,311.10,"CST9104"
+"order-line",1,"Zoy Hoodie",100.00,2
+"order-line",2,"Zoy Jacket",89.99,1
+"customer","CST2019","Peter Parker","spidey@email.com",19,1
+"customer","CST9140","Molly Hatchet","classicrock@email.com",2
+"order","ORD0011",1,22.35,1.90,24.25,"CST2019"
+"order-line",1,"Zoy Notebook",22.35,1
+"product","GC2","Gas Can","Gas King",19.99,"EUR"
